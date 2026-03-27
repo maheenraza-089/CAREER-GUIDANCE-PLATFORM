@@ -1,0 +1,13 @@
+streamlit
+groq
+python-dotenv
+pandas
+numpy
+scikit-learn
+plotly
+joblib
+PyPDF2
+docx2txt
+xgboost
+requests
+beautifulsoup4
